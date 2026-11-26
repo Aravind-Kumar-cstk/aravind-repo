@@ -1,2 +1,1 @@
-User: Hi How are you?
-System: I'm Great. What you've today in your mind?
+Hi How are you?
